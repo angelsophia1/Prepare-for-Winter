@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 47e7e218a700b477aaed2b1a9995dcb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2402713921490753129
+    second: huts_0
+  - first:
+      213: -8076668841646470876
+    second: huts_1
+  - first:
+      213: 7220782031163184339
+    second: huts_2
+  - first:
+      213: -6042021036091094202
+    second: huts_3
+  - first:
+      213: 3826073264452115851
+    second: huts_4
+  - first:
+      213: -9096518775277558778
+    second: huts_5
+  - first:
+      213: 4129367833022207851
+    second: huts_6
+  - first:
+      213: -9080890027746441875
+    second: huts_7
+  - first:
+      213: -3683595635699398539
+    second: huts_8
+  - first:
+      213: 593021937279810362
+    second: huts_9
+  - first:
+      213: -2096168988749578853
+    second: huts_10
+  - first:
+      213: -3223787206201619671
+    second: huts_11
+  - first:
+      213: -9066452769520942073
+    second: huts_12
+  - first:
+      213: 4110341546447759174
+    second: huts_13
+  - first:
+      213: 6740633342145629917
+    second: huts_14
+  - first:
+      213: -5301157071024417967
+    second: huts_15
+  - first:
+      213: -6552815835979652946
+    second: huts_16
+  - first:
+      213: 7636610989167666688
+    second: huts_17
+  - first:
+      213: 1789700111520567222
+    second: huts_18
+  - first:
+      213: 3763933467627873348
+    second: huts_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: huts_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1321
+        width: 195
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71a3247c19794c3982d3e0a4498c9ad
+      internalID: 2402713921490753129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1321
+        width: 196
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11adc3f4db2b64a6f9d8589f5c7f8b51
+      internalID: -8076668841646470876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_2
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1334
+        width: 191
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a568f26832e4a77b564c142092dd94
+      internalID: 7220782031163184339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1334
+        width: 168
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b4a4a43b7494023b08c2839f7b3aa3
+      internalID: -6042021036091094202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1013
+        width: 200
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3efc5f7c400341ceaf317a35bf51710
+      internalID: 3826073264452115851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1013
+        width: 200
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b047c1722acc4ab1b0304f2325a189d
+      internalID: -9096518775277558778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1014
+        width: 200
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c162d95f6d5b4cfdae83f7723883be1
+      internalID: 4129367833022207851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_7
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1014
+        width: 200
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c738e13b51840f9a4d1f69da3189d2
+      internalID: -9080890027746441875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 694
+        width: 197
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d9bdc7eddc14adfabb44ba2bcf85d2
+      internalID: -3683595635699398539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 689
+        width: 216
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aad111716f7459e8f33b6db8866954
+      internalID: 593021937279810362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 680
+        width: 216
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc4e1fa1892e49d0a736afc2c84c9df
+      internalID: -2096168988749578853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_11
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 680
+        width: 216
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a5669124ef24d2abb19222e66a3fc0
+      internalID: -3223787206201619671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 384
+        width: 215
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab108906e99e644d4834f1cf4d47bc25
+      internalID: -9066452769520942073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 384
+        width: 216
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f1cdf642a3741f6892e862215c2a62
+      internalID: 4110341546447759174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_14
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 396
+        width: 215
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b6ef41746c4bbb8f96a74065ee139
+      internalID: 6740633342145629917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_15
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 397
+        width: 197
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451edb8cf3fee4b799f45be43974ee1e
+      internalID: -5301157071024417967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 200
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771c0982a795846638666d8b05ec819b
+      internalID: -6552815835979652946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 76
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a144636d1e0a349d7ae469364ad14d8e
+      internalID: 7636610989167666688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_18
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 77
+        width: 217
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c183af51e55844f4a931d35c246d072c
+      internalID: 1789700111520567222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huts_19
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 77
+        width: 216
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d0c2d6809f241d8918379dcdd0bdad
+      internalID: 3763933467627873348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8603175d06f5a4aff98b2c1d06cf09a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
